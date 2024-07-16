@@ -9,8 +9,8 @@ class Solution {
         StringBuilder pathToStart = new StringBuilder();
         findPath(lca, startValue, pathToStart);
         
-        //find addition of two numbers
-        int sum = startValue + destValue;
+        //find addition of three numbers
+        int sum = startValue + destValue+hello;
 
         // Find path from LCA to destValue
         StringBuilder pathToDest = new StringBuilder();
