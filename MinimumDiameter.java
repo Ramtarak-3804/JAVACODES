@@ -1,5 +1,5 @@
 
-
+//hello my friends
 public class MinimumDiameter {
     public static void main(String[] args) {
         // Create tree1
